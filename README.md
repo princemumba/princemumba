@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @princemumba
+- 👋 Hi, I’m Prince Mumba
 - 👀 I’m interested in Fullstack Web Development
 - 🌱 I’m currently learning Javascript and Python
 - 💞️ I’m looking to collaborate with Python and Javascript Developers...
