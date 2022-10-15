@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prince Mumba
-- 👀 I’m interested in Fullstack Web Development
-- 🌱 I’m currently learning Javascript and Python
-- 💞️ I’m looking to collaborate with Python and Javascript Developers...
+- 👀 I’m interested in Front-End Web Development
+- 🌱 I’m currently learning Javascript and Bootstrap 5
+- 💞️ I’m looking to collaborate with Javascript Developers...
 - 📫 How to reach me? you can contact me on WhatsApp +260760026143 or via Email princemumba60@gmail.com
 
 <!---
